@@ -7,7 +7,7 @@
 I'm a passionate web developer with a strong foundation in programming languages and a drive to continuously learn and innovate. I excel in collaborative environments and possess excellent communication skills to effectively convey technical concepts.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sumanthdl.20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanth-dl-79819a291/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sumanth_dl) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sumanthdl.20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sumanthdl) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sumanth_dl) 
 
 ![My spotify](https://spotify-recently-played-readme.vercel.app/api?user=31aryoific454sghcjm22k4dmjq4)
 
