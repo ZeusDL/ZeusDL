@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display+SC&weight=900&size=25&letterSpacing=1&duration=2500&pause=5000&color=009FF7&width=435&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
-
+###
 ### 💫 About Me:
 I'm a passionate web developer with a strong foundation in programming languages and a drive to continuously learn and innovate. I excel in collaborative environments and possess excellent communication skills to effectively convey technical concepts.
-
+###
 ### 🌐 Socials:
 <div align="center">
   <a href="mailto:Sumanthdl20@outlook.com" target="_blank">
