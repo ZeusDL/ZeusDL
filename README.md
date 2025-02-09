@@ -1,16 +1,33 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display+SC&weight=900&size=25&letterSpacing=1&duration=2500&pause=5000&color=009FF7&width=435&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display+SC&weight=900&size=25&letterSpacing=1&duration=2500&pause=5000&color=009FF7&width=435&lines=Welcome+to+my+Github+Profile" alt="Typing SVG">
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<p align="center">
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Dev Quote">
+</p>
 
-# 💫 About Me:
-I'm a passionate web developer with a strong foundation in programming languages and a drive to continuously learn and innovate. I excel in collaborative environments and possess excellent communication skills to effectively convey technical concepts.
+<p align="center">
+  <h1>💫 About Me:</h1>
+  <p>I'm a passionate web developer with a strong foundation in programming languages and a drive to continuously learn and innovate. I excel in collaborative environments and possess excellent communication skills to effectively convey technical concepts.</p>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sumanthdl.20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sumanthdl) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sumanth_dl) 
+<p align="center">
+  <h2>🌐 Socials:</h2>
+  <a href="https://www.instagram.com/sumanthdl.20" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="www.linkedin.com/in/sumanthdl" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/sumanth_dl" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+  </a>
+</p>
 
-![My spotify](https://spotify-recently-played-readme.vercel.app/api?user=31aryoific454sghcjm22k4dmjq4)
-
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aryoific454sghcjm22k4dmjq4" alt="Spotify">
+</p>
 # 💻 Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
