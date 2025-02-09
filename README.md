@@ -3,7 +3,9 @@
 ###
 
 ## 💫 About Me:
-I'm a passionate web developer with a strong foundation in programming languages and a drive to continuously learn and innovate. I excel in collaborative environments and possess excellent communication skills to effectively convey technical concepts.
+<br clear="both">
+
+<h2 align="center">I'm a passionate web developer with a strong foundation in programming languages and a drive to continuously learn and innovate. I excel in collaborative environments and possess excellent communication skills to effectively convey technical concepts.</h2>
 
 ###
 
