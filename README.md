@@ -61,6 +61,8 @@ I'm a passionate web developer with a strong foundation in programming languages
 </div>
 
 ###
+
+## Proflie View Count🔎
 <div align="center">
   <img src="https://profile-counter.glitch.me/ZeusDL/count.svg?"  />
 </div>
