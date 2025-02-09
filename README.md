@@ -1,9 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display+SC&weight=900&size=25&letterSpacing=1&duration=2500&pause=5000&color=009FF7&width=435&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+
 ###
-### 💫 About Me:
+
+## 💫 About Me:
 I'm a passionate web developer with a strong foundation in programming languages and a drive to continuously learn and innovate. I excel in collaborative environments and possess excellent communication skills to effectively convey technical concepts.
+
 ###
-### 🌐 Socials:
+
+## 🌐 Socials:
 <div align="center">
   <a href="mailto:Sumanthdl20@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
@@ -24,7 +28,7 @@ I'm a passionate web developer with a strong foundation in programming languages
 
 ###
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
@@ -48,6 +52,7 @@ I'm a passionate web developer with a strong foundation in programming languages
 </div>
 
 ###
+
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeusDL&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
