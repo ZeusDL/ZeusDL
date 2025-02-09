@@ -60,7 +60,7 @@
 
 ###
 
-## Proflie View Count🔎
+## 🔎Proflie View Count:
 <div align="center">
   <img src="https://profile-counter.glitch.me/ZeusDL/count.svg?"  />
 </div>
