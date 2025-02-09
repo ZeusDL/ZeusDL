@@ -12,7 +12,6 @@ I'm a passionate web developer with a strong foundation in programming languages
 ![My spotify](https://spotify-recently-played-readme.vercel.app/api?user=31aryoific454sghcjm22k4dmjq4)
 
 
-Align all of this to center
 ## 💻 Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
